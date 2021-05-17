@@ -7,11 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7C270F832652E64D00EB0FFF /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C270F822652E64D00EB0FFF /* Login.storyboard */; };
-		7C270F882652EACD00EB0FFF /* ForgotPassword.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C270F872652EACD00EB0FFF /* ForgotPassword.storyboard */; };
-		7C270F902652ED0500EB0FFF /* ResetPassword.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C270F8F2652ED0500EB0FFF /* ResetPassword.storyboard */; };
-		7C270F952652EE5D00EB0FFF /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C270F942652EE5D00EB0FFF /* Home.storyboard */; };
-		7C270F9A2652FBFE00EB0FFF /* Product.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C270F992652FBFE00EB0FFF /* Product.storyboard */; };
 		7C2DAEF42652BBD200832EEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2DAEF32652BBD200832EEE /* AppDelegate.swift */; };
 		7C2DAEF62652BBD200832EEE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2DAEF52652BBD200832EEE /* SceneDelegate.swift */; };
 		7C2DAEF82652BBD200832EEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2DAEF72652BBD200832EEE /* ViewController.swift */; };
@@ -20,7 +15,6 @@
 		7C2DAF002652BBD600832EEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C2DAEFE2652BBD600832EEE /* LaunchScreen.storyboard */; };
 		7C2DAF0B2652BBD600832EEE /* Assignment3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2DAF0A2652BBD600832EEE /* Assignment3Tests.swift */; };
 		7C2DAF162652BBD600832EEE /* Assignment3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2DAF152652BBD600832EEE /* Assignment3UITests.swift */; };
-		7C2DAF2F2652DC0A00832EEE /* SignUp.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C2DAF2E2652DC0A00832EEE /* SignUp.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,11 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7C270F822652E64D00EB0FFF /* Login.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
-		7C270F872652EACD00EB0FFF /* ForgotPassword.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ForgotPassword.storyboard; sourceTree = "<group>"; };
-		7C270F8F2652ED0500EB0FFF /* ResetPassword.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ResetPassword.storyboard; sourceTree = "<group>"; };
-		7C270F942652EE5D00EB0FFF /* Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
-		7C270F992652FBFE00EB0FFF /* Product.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Product.storyboard; sourceTree = "<group>"; };
 		7C2DAEF02652BBD200832EEE /* Assignment3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C2DAEF32652BBD200832EEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C2DAEF52652BBD200832EEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,7 +49,6 @@
 		7C2DAF112652BBD600832EEE /* Assignment3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Assignment3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C2DAF152652BBD600832EEE /* Assignment3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment3UITests.swift; sourceTree = "<group>"; };
 		7C2DAF172652BBD600832EEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7C2DAF2E2652DC0A00832EEE /* SignUp.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SignUp.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,12 +106,6 @@
 				7C2DAEFC2652BBD600832EEE /* Assets.xcassets */,
 				7C2DAEFE2652BBD600832EEE /* LaunchScreen.storyboard */,
 				7C2DAF012652BBD600832EEE /* Info.plist */,
-				7C2DAF2E2652DC0A00832EEE /* SignUp.storyboard */,
-				7C270F822652E64D00EB0FFF /* Login.storyboard */,
-				7C270F872652EACD00EB0FFF /* ForgotPassword.storyboard */,
-				7C270F8F2652ED0500EB0FFF /* ResetPassword.storyboard */,
-				7C270F942652EE5D00EB0FFF /* Home.storyboard */,
-				7C270F992652FBFE00EB0FFF /* Product.storyboard */,
 			);
 			path = Assignment3;
 			sourceTree = "<group>";
@@ -250,14 +232,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C2DAF002652BBD600832EEE /* LaunchScreen.storyboard in Resources */,
-				7C270F9A2652FBFE00EB0FFF /* Product.storyboard in Resources */,
-				7C270F902652ED0500EB0FFF /* ResetPassword.storyboard in Resources */,
-				7C270F832652E64D00EB0FFF /* Login.storyboard in Resources */,
 				7C2DAEFD2652BBD600832EEE /* Assets.xcassets in Resources */,
 				7C2DAEFB2652BBD200832EEE /* Main.storyboard in Resources */,
-				7C270F882652EACD00EB0FFF /* ForgotPassword.storyboard in Resources */,
-				7C2DAF2F2652DC0A00832EEE /* SignUp.storyboard in Resources */,
-				7C270F952652EE5D00EB0FFF /* Home.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
